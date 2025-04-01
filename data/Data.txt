@@ -1,0 +1,3 @@
+La base de datos fue obtenida desde el sitio web de Kaggle, adjunto la dirección especifica donde se puede visualizar y descargar la base de datos en formato CSV:
+
+https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres
